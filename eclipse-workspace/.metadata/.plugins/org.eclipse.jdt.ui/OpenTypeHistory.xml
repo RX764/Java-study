@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=singleleton/D:\/java\/jdk1.8.0_221\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1564327679089"/>
+<typeInfo handle="=shopping/src&lt;sell{product.java[product" modifiers="1" timestamp="1590126348822"/>
+<typeInfo handle="=shopping/D:\/java\/jdk1.8.0_221\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.util(ArrayList.class[ArrayList" modifiers="33" timestamp="1564327679089"/>
+<typeInfo handle="=shopping/src&lt;sell{Employee.java[Employee" modifiers="1025" timestamp="1590129941587"/>
+<typeInfo handle="=shopping/src&lt;sell{Customer.java[Customer" modifiers="1" timestamp="1590133137466"/>
+<typeInfo handle="=thread/D:\/java\/jdk1.8.0_221\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.lang(Thread.class[Thread" modifiers="33" timestamp="1564327679089"/>
+</typeInfoHistroy>
