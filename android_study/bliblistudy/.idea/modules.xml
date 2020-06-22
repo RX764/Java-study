@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="bliblistudy/app" />
+      <module fileurl="file://$PROJECT_DIR$/bliblistudy.iml" filepath="$PROJECT_DIR$/bliblistudy.iml" group="bliblistudy" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" group="bliblistudy/viewpager" />
+    </modules>
+  </component>
+</project>
