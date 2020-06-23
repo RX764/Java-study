@@ -1,0 +1,3 @@
+rootProject.name='bliblistudy'
+include ':app'
+include ':viewpager'
